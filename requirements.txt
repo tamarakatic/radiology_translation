@@ -4,3 +4,4 @@ nltk
 pandas
 pipe
 scikit-learn
+sentence-transformers
